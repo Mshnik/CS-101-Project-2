@@ -24,6 +24,8 @@ while x == None or x <= 1:
   if x <= 1:
     print("Bad input: " + str(x))
 
+print("Testing " + str(x) + " to see if it is Prime...")
+
 # Determine if x is prime and print exactly one of:
 ## print(str(x) + " is Prime.")
 ## print(str(x) + " is not Prime.")
